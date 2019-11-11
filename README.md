@@ -96,6 +96,6 @@ This extension contributes the following settings:
 - fileheader.templates: Language specific or global(*) templates.
 ## Release Notes
 
-### 1.0.0
+### 0.0.1
 
 Initial release of File Header adding the base functionality and some of the intended automations.
