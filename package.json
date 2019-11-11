@@ -4,6 +4,10 @@
 	"description": "File Header utility, allows adding header/footer info to the current document",
 	"version": "0.0.1",
 	"publisher": "bookworms",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bookwormdevelopment/file-header"
+	},
 	"engines": {
 		"vscode": "^1.39.0"
 	},
